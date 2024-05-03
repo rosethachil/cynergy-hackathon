@@ -3,11 +3,12 @@ body {
     height: 125vh;
     margin-top: 80px;
     padding: 30px;
+    background-color: lavender;
     background-size: cover;
     font-family: sans-serif;
     }
 header {
-    background-color: rgb(167, 5, 159);
+    background-color: rgb(60, 5, 136);
     position: fixed;
     left: 0;
     right: 0;
@@ -23,10 +24,14 @@ header li {
     margin: 20px;
 }
 header li a {
-    color: rgb(236, 154, 245);
+    color: rgb(169, 154, 245);
     text-decoration:solid;
 }
 
 .btn:hover {
-    background-color: rgb(89, 11, 101);
+    background-color: rgb(85, 57, 199);
   }
+
+h1{
+    text-emphasis-color: ;
+}
