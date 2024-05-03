@@ -3,17 +3,17 @@ body {
     height: 125vh;
     margin-top: 80px;
     padding: 30px;
-    background-color: lavender;
+    background-color: rgb(209, 209, 252);
     background-size: cover;
-    font-family: sans-serif;
+    
     }
 header {
-    background-color: rgb(60, 5, 136);
+    background-color: rgb(255, 255, 255);
     position: fixed;
     left: 0;
     right: 0;
     top: 5px;
-    height: 30px;
+    height: 60px;
     display: flex;
     align-items: center;
     }
@@ -24,7 +24,7 @@ header li {
     margin: 20px;
 }
 header li a {
-    color: rgb(169, 154, 245);
+    color: rgb(5, 5, 5);
     text-decoration:solid;
 }
 
@@ -35,13 +35,70 @@ p1 .main .main_content{
     align-items: center;
 }
 p1 .main .main_content .main_image img{
-    margin-top:50px;
+    margin-top:40px;
     border-radius:100px;
 }
 h1{
     color:rgb(58, 79, 119);
 }
-p1 .main .main_content {
-    text-align: centre;
+p1 .main .main_content .image2text p2{
+    font-family:'Lucida Sans Regular';
+    font-size: 2.5rem;
+}
+p1 .main .main_content .image2text p3{
+    font-family:'Courier New';
+    font-size: 2.5rem;
+}
 
+p1 .main .main_content .image2text .btn{
+    font-family:cursive;
+    font-size: 1.5rem;
+}
+p1 .main .main_content .main_image3 .center{
+    margin-top:40px;
+    border-radius:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 23%;
+}
+p1 .main .main_content .image3text p4{
+    font-family:'Lucida Sans Regular';
+    font-size: 2.5rem;
+    text-align: center;
+}
+p1 .main .main_content .image3text p5{
+    font-family:'Courier New';
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+p1 .main .main_content .image3text .btn{
+    font-family:cursive;
+    font-size: 1.5rem;
+    text-align: center;
+}
+p1 .main .main_content .main_image4 .right{
+    margin-top:40px;
+    border-radius:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 23%;
+}
+p1 .main .main_content .image4text p6{
+    font-family:'Lucida Sans Regular';
+    font-size: 2.5rem;
+    text-align: center;
+}
+p1 .main .main_content .image4text p7{
+    font-family:'Courier New';
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+p1 .main .main_content .image4text .btn{
+    font-family:cursive;
+    font-size: 1.5rem;
+    text-align: center;
 }
