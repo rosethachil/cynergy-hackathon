@@ -40,6 +40,7 @@ p1 .main .main_content .main_image img{
 }
 h1{
     color:rgb(58, 79, 119);
+    font-size: 50px;
 }
 p1 .main .main_content .image2text p2{
     font-family:'Lucida Sans Regular';
@@ -86,19 +87,14 @@ p1 .main .main_content .main_image4 .right{
     margin-right: 0;
     width: 23%;
 }
-p1 .main .main_content .image4text p6{
+p6{
     font-family:'Lucida Sans Regular';
     font-size: 2.5rem;
-    text-align: center;
-}
-p1 .main .main_content .image4text p7{
-    font-family:'Courier New';
-    font-size: 2.5rem;
-    text-align: center;
+    text-align: right;
 }
 
 p1 .main .main_content .image4text .btn{
     font-family:cursive;
     font-size: 1.5rem;
-    text-align: center;
+    text-align: right;
 }
