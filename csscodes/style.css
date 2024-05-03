@@ -1,0 +1,12 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+.btn {
+  background-color: rgb(150, 41, 208);
+  border:non;
+  color:rgba(245, 218, 252, 0.967);
+  font-size : 16px;
+  cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(89, 11, 101);
+  }
+  
