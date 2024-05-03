@@ -1,7 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 body {
     height: 125vh;
-    margin-top: 80px;
+    margin-top: 60px;
     padding: 30px;
     background-color: rgb(209, 209, 252);
     background-size: cover;
@@ -90,7 +90,7 @@ p1 .main .main_content .main_image4 .right{
     margin-right: 0;
     width: 23%;
 }
-p6{
+p1 .main .main_content .image4text p6{
     font-family:'Lucida Sans Regular';
     font-size: 2.5rem;
     text-align: right;
