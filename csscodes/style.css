@@ -42,6 +42,9 @@ h1{
     color:rgb(58, 79, 119);
     font-size: 50px;
 }
+p{
+    font-size: 20px;
+}
 p1 .main .main_content .image2text p2{
     font-family:'Lucida Sans Regular';
     font-size: 2.5rem;
