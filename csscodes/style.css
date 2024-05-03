@@ -31,7 +31,17 @@ header li a {
 .btn:hover {
     background-color: rgb(85, 57, 199);
   }
-
+p1 .main .main_content{
+    align-items: center;
+}
+p1 .main .main_content .main_image img{
+    margin-top:50px;
+    border-radius:100px;
+}
 h1{
-    text-emphasis-color: ;
+    color:rgb(58, 79, 119);
+}
+p1 .main .main_content {
+    text-align: centre;
+
 }
